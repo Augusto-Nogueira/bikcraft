@@ -1,0 +1,31 @@
+.menu_ativo {
+	color: #FFF;
+}
+
+.interna_portfolio {
+	background: url("../img/bg-portfolio.png") no-repeat center;
+	background-size: cover;
+}
+
+.quote-cliente {
+	max-width: 460px;
+	padding: 60px 0px;
+	margin: 0 auto;
+}
+
+.quote-cliente p {
+	text-align: center;
+	font-family: Georgia,"Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+	font-style: italic;
+	margin-bottom: 15px;
+}
+
+.quote-cliente cite {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+	float: right;
+	font-style: normal;
+}

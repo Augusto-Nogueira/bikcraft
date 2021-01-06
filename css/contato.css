@@ -1,0 +1,124 @@
+.menu_ativo {
+	color: #FFF;
+}
+
+.interna_contato {
+	background: url("../img/bg-contato.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.interna_contato h1 {
+	font-size: 36px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+}
+
+.interna_contato h1:after {
+	content:"";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #FFF;
+	margin: 2px auto;
+}
+
+
+/* Sessão Orçamento */
+
+.contato {
+	padding: 40px 0;
+}
+
+.form {
+	padding-right: 60px;
+}
+
+.form label {
+	display: block;
+	margin-bottom: 5px;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.form input {
+	margin-bottom: 10px;
+	display: block;
+	width: 100%;
+	border: 4px solid #fec63e;
+	outline-style: none;
+	background: none;
+	padding: 7px 10px;
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.form textarea {
+	display: block;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 120px;
+	border: 4px solid #fec63e;
+	outline-style: none;
+	background: none;
+	padding-left: 8px;
+	padding: 7px 0;
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", serif;
+} 
+
+.form button {
+	background: none;
+	padding: 7px 40px;
+	outline-style: none;
+}
+
+.contato_dados {
+	margin-bottom: 20px;
+}
+
+.contato_dados h3 {
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #fec63e;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.contato_dados span {
+	display: block;
+	font-size: 18px;
+	line-height: 30px;
+	font-family: Georgia, "Times New Roman", serif;
+	margin-bottom: 5px;
+}
+
+.contato_redes h3 {
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #fec63e;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.contato_redes ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.contato_redes ul li a {
+	border: 3px solid #fec63e;
+	display: block;
+	padding: 6px;
+}
+
+.contato_redes ul li a:hover {
+	border-color:#000;
+}
+
+.mapa {
+	margin-bottom: 60px;
+}
